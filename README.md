@@ -1,2 +1,2 @@
-# data-acquisition-and-text-processing
-did data acquisition and then applied all text processing methods
+# Resume Screening using python
+used nlp to build resume screening app
